@@ -220,10 +220,10 @@
     * [0637.二叉树的层平均值](https://github.com/youngyangyang04/leetcode/blob/master/problems/0637.二叉树的层平均值.md)
 
     * [0226.翻转二叉树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0226.翻转二叉树.md)
-    * [0101.对称二叉树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0101.对称二叉树.md)
-    * [0100.相同的树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0100.相同的树.md)
+    * [0101.对称二叉树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0101.对称二叉树.md)(Done)
+    * [0100.相同的树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0100.相同的树.md)(Done)
 
-    * [0572.另一个树的子树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0572.另一个树的子树.md)
+    * [0572.另一个树的子树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0572.另一个树的子树.md)(Done)
     * [0110.平衡二叉树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0110.平衡二叉树.md)
     * [0104.二叉树的最大深度](https://github.com/youngyangyang04/leetcode/blob/master/problems/0104.二叉树的最大深度.md)
     * [0111.二叉树的最小深度](https://github.com/youngyangyang04/leetcode/blob/master/problems/0111.二叉树的最小深度.md)
